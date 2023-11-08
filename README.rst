@@ -212,7 +212,4 @@ Periodically you should update conda and the required Python packages. With the 
     $ conda update conda
     $ conda env update -f conda_env.yml
 
- ### Many Thanks To Our Contributors:
-<a href="https://github.com/gprMax/gprMax/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gprMax/gprMax" />
-</a>
+
